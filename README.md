@@ -1,6 +1,6 @@
 # Привет! Я Денис, аналитик данных
 
-Опыт 2+ года в FMCG. Работаю с SQL, Python (pandas) и Excel. Ищу удалённую работу аналитиком.
+Опыт 2+ года в FMCG.  Ищу работу аналитиком.
 
 ## Проекты
 - [Rossmann: анализ продаж сети](https://github.com/DenisIVA64/rossmann-sales-analysis): сезонность, влияние промо, ABC-анализ (Python, SQL)
@@ -11,6 +11,7 @@
 ## Навыки
 Technical: SQL, Python, Excel, 1C, PowerPoint, A/B testing, ETL, API, data
 cleaning, dashboards, KPI reporting
+
 Other: process automation, management reporting, cross-team communication, AI tools
 (ChatGPT, Claude)
 
