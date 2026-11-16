@@ -9,10 +9,16 @@
 - [Образовательная платформа: A/B-тест оплаты, SQL](https://github.com/DenisIVA64/edtech-payment-ab-test-sql): метрики, ClickHouse, функции Python
 
 ## Навыки
-SQL · Python (pandas, matplotlib) · Excel · Jupyter
+Technical: SQL, Python, Excel, 1C, PowerPoint, A/B testing, ETL, API, data
+cleaning, dashboards, KPI reporting
+Other: process automation, management reporting, cross-team communication, AI tools
+(ChatGPT, Claude)
 
 ## Образование
-Karpov Courses
+-Master's degree, Economics of Commercial Organization, Plekhanov Russian University of
+Economics (Branch), 2012 – 2018
+
+-Karpov Courses Mar 2023 – Sep 2023
 
 ## Связаться
 Telegram: [@nosmovie](https://t.me/nosmovie)
