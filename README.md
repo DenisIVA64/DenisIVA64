@@ -22,5 +22,5 @@ Economics (Branch), 2012 – 2018
 -Karpov Courses Mar 2023 – Sep 2023
 
 ## Связаться
-Telegram: [@nosmovie](https://t.me/nosmovie)
-Email: nosmovie@gmail.com
+- Telegram: [@nosmovie](https://t.me/nosmovie)
+- Email: nosmovie@gmail.com
